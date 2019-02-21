@@ -9,7 +9,6 @@ the machine learning course of longpeng
 ###一，微信公众号-有三AI<br>
 ![image](https://github.com/longpeng2008/LongPeng_ML_Course/blob/master/images/wechat.jpg)
 
-###二，知乎专栏-有三AI学院<br>
-[专栏](https://zhuanlan.zhihu.com/c_151876233)
+###二，知乎专栏-有三AI学院(https://zhuanlan.zhihu.com/c_151876233)<br>
 ![image](https://github.com/longpeng2008/LongPeng_ML_Course/blob/master/images/zhihu.png)
 
